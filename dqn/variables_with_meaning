@@ -1,0 +1,23 @@
+dqn : a package (eventually a table) consisting of classes transition table and neuralQlearner
+
+histLen : length of history.comes from args
+
+histSpacing : spacing between history.not specified so 1, with hist_len 4 and linear history, it stores 4 frames
+
+histIndices : indices of frames from history
+
+recentMemSize : 
+
+histType : type of history, linear/ exp2/ exp1.25
+
+maxSize: size of replay memory
+
+numActions: number of actions
+
+pool_frms: string of frame pooling parameters (e.g.: size=2,type="max")
+
+All buffer parameters as experience buffer.
+
+t : terminal state
+
+best :

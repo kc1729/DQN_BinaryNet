@@ -1,0 +1,46 @@
+rock_manifest = {
+   demos = {
+      ["Vera.ttf"] = "785d2fd45984c6548763ae6702d83e20",
+      ["brush.lua"] = "53e0557487df2785e1c3e0fabf2f7d7b",
+      ["bugs.jpg"] = "ef9167449505f45a317425d8f07fddf3",
+      ["circle.lua"] = "3851b73d9079419c68dba887f0a545bf",
+      ["clock.lua"] = "902c7a0d7f6ff59fea64d6b4f1bdcf0b",
+      ["colortransparent.lua"] = "f05747caa99eee11906b2e73dc732749",
+      ["counter.lua"] = "8f3abbc5257a7f9fc439ca21488c98bc",
+      ["ellipse.lua"] = "8b2e607593dc9574e0ddf5dcf2db885b",
+      ["fontconfig.lua"] = "77c3c2f666d3b8fc228d6f4332b61c94",
+      ["fractal.lua"] = "cb55ddf107d2e73cffdf3ce920c8bce3",
+      ["gd-open-any.lua"] = "e6af8592bb0c223bc7ab316436f92a98",
+      ["gifanim.lua"] = "acf0fa18e00115e5d8e0b8e6174d449a",
+      ["gifanim2.lua"] = "058d1c359a977d9376f87ed05f59e12d",
+      ["gifanim3.lua"] = "4f7645c341d60dd266149fb78af8dac3",
+      ["lua-gd.png"] = "7893b12abcad949e83eb6271504148c6",
+      ["lualogo.lua"] = "874c34b27c0e49c1fcefefe496d835f7",
+      ["paper.png"] = "410f848dbbb501c5566d8a880bce8b9f",
+      ["poly.lua"] = "1eb73c2386661a190abfb0e2e0599394",
+      ["setstyle.lua"] = "b90e82bf95df810c9c92016b436f391b",
+      ["stdfont.lua"] = "24f48044960bf6bc3ab2f6a0ce83157f",
+      ["steg.lua"] = "d3dcc21114d62af3b85487356615f476",
+      ["test.lua"] = "11ec63b69c4a74549303f5553de3bd46",
+      ["test2.lua"] = "d4aa1130e143fcee563f9d169b276589",
+      ["ttftext.lua"] = "39213007a63f0b796dc399fe864382c6",
+      ["ttftextex.lua"] = "63288dbbd0aa64709c300b195c553f85",
+      ["utf-8.lua"] = "c6aa9abe33fc9a13bebb5b9eea995dae"
+   },
+   doc = {
+      ["cat.png"] = "509e44d6be05a5752b5aa0e2376002ca",
+      ["catdiff.png"] = "23e9a198a759079bbf3fe5fd0a1c958e",
+      ["catmsg.png"] = "d7d3b4677bf0ed483290b1e28ab4d30b",
+      ["clock-example.png"] = "ef54a5abf0cd78732e63335859a82705",
+      ["fontconfig-example.png"] = "b634c081a53aa0f6050ee7da493613b8",
+      ["gifanim.gif"] = "5a005e9a85adb7d56f934044b55822cc",
+      ["index.html"] = "7f46d3d8c9ea61737533a38c1da8399f",
+      ["lua-gd.png"] = "7893b12abcad949e83eb6271504148c6",
+      ["sierpinski.png"] = "376cbd03c54f500f3b2e5b9c3163fadb",
+      ["stdfonts.png"] = "5be9c88b694adfcfafbdf338ca2922bf"
+   },
+   lib = {
+      ["gd.so"] = "910a620b5047edf621a00f9fd5a898e1"
+   },
+   ["luagd-2.0.33r3-1.rockspec"] = "91250c0fba5bcc9bbdb3fcd52ea86a60"
+}

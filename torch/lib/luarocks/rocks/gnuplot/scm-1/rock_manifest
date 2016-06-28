@@ -1,0 +1,43 @@
+rock_manifest = {
+   doc = {
+      ["common.md"] = "6254abb67f7799c50fcf97c1ebfc9365",
+      ["custom.md"] = "7bdc20ce344127014a5d8ddf43187277",
+      ["file.md"] = "2cf1fa6d7fd5d6a0b52742a53abd2084",
+      ["index.md"] = "7266a560ac0eef2b346c5d94deee67e7",
+      ["plot3dpoints.md"] = "1229d1959e45daee636ff3d4db5dae07",
+      ["plot_filled.png"] = "c8465376497093c7328025e9cc81d7d0",
+      ["plot_hist.png"] = "c69d95ddf9dc814e7700393faba4ab7a",
+      ["plot_imagesc.png"] = "9b6e16267b2ec154528c138fbcafe97b",
+      ["plot_raw.png"] = "cec500ab30a8e25dfee0efaf61a526ee",
+      ["plot_sincos.png"] = "9f27d3bf0b73993519a78d8a417e12d4",
+      ["plot_splot.png"] = "7b5e3a9110359c25f7b850457a66bca7",
+      ["plot_splot2.png"] = "4f287fefa19c3311f77a56fd0d59bfb3",
+      ["plot_x.png"] = "ecc42aaa90b35dd436551f8b33f4540a",
+      ["plot_xyf.png"] = "7c7e7d6a1538bd892ef1fee44096b4b1",
+      ["plothistogram.md"] = "026fcdc8497f42a21bf46aaa80ef4be0",
+      ["plotline.md"] = "c5251d52482345109a3b3b1ae8a589e7",
+      ["plotmatrix.md"] = "ffb39a04b0b5f314882d2e1e9aaa0f84",
+      ["plotsurface.md"] = "37b1215ea0a497fcf234d459390105c3",
+      ["scatter3.png"] = "bed610abbb3b1132270b1a1b9bdbd60d",
+      ["scatter3_helix.png"] = "3246f66d313e521698968d864c621370"
+   },
+   ["gnuplot-scm-1.rockspec"] = "d3945f2f89b28b3c6039aa79fe3f3bd1",
+   lua = {
+      gnuplot = {
+         ["README.md"] = "7fb57e03b9f36e20edf6f93c35534a75",
+         doc = {
+            ["plot_filled.png"] = "c8465376497093c7328025e9cc81d7d0",
+            ["plot_hist.png"] = "c69d95ddf9dc814e7700393faba4ab7a",
+            ["plot_imagesc.png"] = "9b6e16267b2ec154528c138fbcafe97b",
+            ["plot_sincos.png"] = "9f27d3bf0b73993519a78d8a417e12d4",
+            ["plot_splot.png"] = "7b5e3a9110359c25f7b850457a66bca7",
+            ["plot_splot2.png"] = "4f287fefa19c3311f77a56fd0d59bfb3",
+            ["plot_x.png"] = "ecc42aaa90b35dd436551f8b33f4540a",
+            ["plot_xyf.png"] = "7c7e7d6a1538bd892ef1fee44096b4b1"
+         },
+         ["gnuplot.lua"] = "5b98d5f1b97c2f8f149b7ee6e7715148",
+         ["hist.lua"] = "6edc01232d75cdfde2fd6282acde76e0",
+         ["init.lua"] = "77d6efea41f62d28e6af7ede581c4439"
+      }
+   }
+}

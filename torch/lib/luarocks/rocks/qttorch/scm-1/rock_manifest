@@ -1,0 +1,17 @@
+rock_manifest = {
+   doc = {
+      ["README.md"] = "05a0430bd552c6044e9d31c542e042f8"
+   },
+   lib = {
+      ["libqttorch.so"] = "0e4451dc3723a1d5762d1c15075a6bb6"
+   },
+   lua = {
+      qttorch = {
+         doc = {
+            ["README.md"] = "05a0430bd552c6044e9d31c542e042f8"
+         },
+         ["init.lua"] = "9d8b866046bf8fb9429fa4072b2a68ca"
+      }
+   },
+   ["qttorch-scm-1.rockspec"] = "e60a80383e85b2bf7cf859a98f3cd88b"
+}

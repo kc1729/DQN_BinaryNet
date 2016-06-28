@@ -1,0 +1,43 @@
+rock_manifest = {
+   doc = {
+      ["colorspace.md"] = "cf87beb89b4f83973cc386a5394b7944",
+      ["drawing.md"] = "0278a02a74665adf4a5b2f26a3658e06",
+      ["gui.md"] = "c4c8e5703e7ddaa30f65f7cb24af2b2b",
+      ["index.md"] = "4eb8a808850c1ba040749a6ba6006fa0",
+      ["paramtransform.md"] = "bee4ed26d3f117997cefabdeb23e4b07",
+      ["saveload.md"] = "8691ac939bdf6c13e3c8a34554337c64",
+      ["simpletransform.md"] = "a7d6a5546a633bb1194eafd7aa051cc6",
+      ["tensorconstruct.md"] = "9ea0fd025a3655601b3ffe378574c9be"
+   },
+   ["image-1.1.alpha-0.rockspec"] = "f7c4e59478577feb21c3174e729f54bd",
+   lib = {
+      ["libimage.so"] = "aa22243994debd42d474aedb08eddf55",
+      ["libjpeg.so"] = "2d4c524072b1b71f1071186389cba2f8",
+      ["libpng.so"] = "99135e4522dd04aca357aa4c3fd897e0",
+      ["libppm.so"] = "4705225bc1eb11cdbf518556a26f234f"
+   },
+   lua = {
+      image = {
+         ["README.md"] = "3c906e8d674bddd3f576ed9fb2d2e828",
+         assets = {
+            ["P2.pgm"] = "8d783ff92ae9baf5598b864a99f2e35e",
+            ["P4.pbm"] = "465245797597129f952babab976f6f99",
+            ["P5.pgm"] = "8e046c7a91474c66a38c6388480c4806",
+            ["P6.ppm"] = "a7af606ac2fb3a71e7a8c690354e05c1",
+            ["corrupt-ihdr.png"] = "524d443ad8b1a2ba6cbf64a53ce0b779",
+            ["fabio.jpg"] = "766d01be7046973350c05e13b898589b",
+            ["fabio.png"] = "18a4c89e35d7841297759119a4337205",
+            ["foobar.png"] = "473249da7d89406a748fcdbdfcfd8e8c",
+            ["gray16-1x2.png"] = "c1374bd5993fbbd2c36f93e71eb4c49f",
+            ["gray3x1.png"] = "cd4f6cf3240e85aa42d5192875af9a60",
+            ["lena.jpg"] = "1c5c628d6b5341c5c5d8bdb9aa38b391",
+            ["lena.png"] = "af3978167358c086e2fcad7ae119c840",
+            ["rgb16-2x1.png"] = "09993c35bf4a05a1888a05fc0dbca3cf",
+            ["rgb2x1.png"] = "d9889d76fd9c1b7054006db9083ee507"
+         },
+         ["init.lua"] = "ed4ee00200ab1e27cc8ca140a1ef35a9",
+         ["test.lua"] = "f35b5d671e00b76f8edb89ae082dcfc4",
+         ["win.ui"] = "35c561d48d8f82811fe9b36669d295f2"
+      }
+   }
+}

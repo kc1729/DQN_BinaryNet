@@ -1,0 +1,50 @@
+rock_manifest = {
+   conf = {
+      cmake = {
+         ["QtLuaConfig.cmake"] = "2424f78a971ced899ec32c6e1fc93f4a"
+      }
+   },
+   doc = {
+      ["index.md"] = "a537e17c2228d3f69b689781fbdb23d3",
+      ["qt.md"] = "4f72ea4fd4db6af401ee18a859704d6e",
+      ["qtcore.md"] = "0b6ea45ecec8b60cbfb2dcf06eacfd4d",
+      ["qtgui.md"] = "138cc300850a3b02d67d52fd003c62a7",
+      ["qtide.md"] = "7b7c5640b3a36890b37c62cdeed8d179",
+      ["qtsvg.md"] = "fceea196daac588cdb9b5b97e7e6a5b9",
+      ["qtuiloader.md"] = "0cce245a942ef5024fa678a03a2d9a0d",
+      ["qtwidget.md"] = "ef83b98979a5108051a62166a49d4a70"
+   },
+   lib = {
+      ["libqtcore.so"] = "d5595884081ff4fb11542a09322476c5",
+      ["libqtgui.so"] = "bcb071379e073fc3c0bad66a873531cb",
+      ["libqtide.so"] = "dd06b8d22da8abc429ced16f43a30c53",
+      ["libqtsvg.so"] = "aba60a15912721954e7f714a1bd7f436",
+      ["libqtuiloader.so"] = "2803fa56ca5ea1d65496b82092bc7d0b",
+      ["libqtwidget.so"] = "25346212e0fdcead32cf5fe664d0f090"
+   },
+   lua = {
+      qtcore = {
+         ["init.lua"] = "f100c651288af954d23711c6d185e5e0"
+      },
+      qtgui = {
+         ["init.lua"] = "a83916e6feffca13669d04c9f1843cdc"
+      },
+      qtide = {
+         ["init.lua"] = "89bbc527574056c55d6e2fb6945cd513",
+         ["prefs.lua"] = "7569e367ae904a8a298aa3f20ef2eef4",
+         ["prefs.ui"] = "d9c61abac81b90c451272bd81242a9f4"
+      },
+      qtsvg = {
+         ["init.lua"] = "ced719c79fbc858be5f34ff6b57a066c"
+      },
+      qtuiloader = {
+         ["init.lua"] = "e0782ad475e28e6d62720c0b29a6b747",
+         ["test.lua"] = "b20eaf75b5d6646e232d14dc87da1c5c",
+         ["test.ui"] = "87387d8bb0eb59d9b74e95b146883ff8"
+      },
+      qtwidget = {
+         ["init.lua"] = "a68f1eb19546f721c0e15af6d148d639"
+      }
+   },
+   ["qtlua-scm-1.rockspec"] = "aec6780a9391d04ebc1a8eb087427a2f"
+}

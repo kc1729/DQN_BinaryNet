@@ -1,0 +1,18 @@
+rock_manifest = {
+   doc = {
+      ["dirfunctions.md"] = "80b53888540d59a14bca895fb2fee066",
+      ["dirpaths.md"] = "5e40ab8ce542a570c322756e46e33908",
+      ["filenames.md"] = "22e0070cbfffb3d5720e69189a6466d6",
+      ["index.md"] = "2d5ab40bc7e387dd57d51e1dafa5de5d",
+      ["misc.md"] = "8da592e63ebefea8b5b615a2873d2221"
+   },
+   lib = {
+      ["libpaths.so"] = "ad0b8cc224a3691a90b03faca9e2a97f"
+   },
+   lua = {
+      paths = {
+         ["init.lua"] = "59ad657f914ac84f00fa1db705299d74"
+      }
+   },
+   ["paths-scm-1.rockspec"] = "f826068bc349e672e4300964c6122670"
+}

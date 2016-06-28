@@ -1,0 +1,21 @@
+rock_manifest = {
+   ["alewrap-0-0.rockspec"] = "89cf411f737ba24e10c391fb59a907da",
+   doc = {
+      LICENSE = "b234ee4d69f5fce4486a80fdaf4a4263",
+      ["README.md"] = "7a2ac91ff622fcb67d8fa7e98ecc18db"
+   },
+   lib = {
+      ["libalewrap.so"] = "0512d97b40a03b4c37617c604820c815"
+   },
+   lua = {
+      alewrap = {
+         ["AleEnv.lua"] = "9a9f570024190b1fd2c5b9ccf7da3a87",
+         ["AtariLayer.lua"] = "869873d0cf1635430f95686a66cfbd9a",
+         ["GameEnvironment.lua"] = "3c2ad1decbc115cdc46d5afe586ec811",
+         ["GameScreen.lua"] = "91b39bd131b425812034b9d706ab1d56",
+         ["aleffi.lua"] = "77b8c4a8eec5156543444f8b040f9c4e",
+         ["alewrap.inl"] = "5b79286e6e21309ce8f1ba9bfc70e666",
+         ["init.lua"] = "e492e6720ae2e3b691e61ec8091a0e4d"
+      }
+   }
+}

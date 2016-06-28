@@ -1,0 +1,7 @@
+rock_manifest = {
+   doc = {
+      LICENSE = "b234ee4d69f5fce4486a80fdaf4a4263",
+      ["README.md"] = "f8757f0d99e0d95e28821ddcc185feae"
+   },
+   ["xitari-0-0.rockspec"] = "c1dacd7d5b9c8b6cd56a97cd3256d0b3"
+}

@@ -1,0 +1,18 @@
+rock_manifest = {
+   ["cwrap-scm-1.rockspec"] = "fc5824e8ba4f6941fb7ba38e380e0f8a",
+   doc = {
+      ["argumenttypes.md"] = "d95f92e3021cc5dbb5414cd710467b83",
+      ["example.md"] = "5a34d88ff1ea57feaccc88c640cd2f68",
+      ["highlevelinterface.md"] = "32b6459ffc92f88bb89062f15f9c4497",
+      ["index.md"] = "2d22d1db3788dee9cd507dea710933bb",
+      ["usertypes.md"] = "753bdd9d68655e186ca8d4cf260fb3d8"
+   },
+   lua = {
+      cwrap = {
+         ["README.md"] = "3b1058d1effb2d25b39aaeeba53f668c",
+         ["cinterface.lua"] = "a4870adcb3f6d8ab37b23d43e3c58fc1",
+         ["init.lua"] = "016a85bbd7f9dc94dbee39db9caaa392",
+         ["types.lua"] = "0153edea5a606dad08484f9f26f6cfd6"
+      }
+   }
+}

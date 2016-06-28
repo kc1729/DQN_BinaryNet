@@ -1,0 +1,53 @@
+rock_manifest = {
+   doc = {
+      ["cmdline.md"] = "5c93882d7a925a3d1e34ca39b1c65d89",
+      ["diskfile.md"] = "41abe8432333a9e730034bcc85aac644",
+      ["file.md"] = "79d9651bc3435d89472ffde1fe22640f",
+      ["gather.png"] = "4ca6caf043c2819df8ba85f1319e29a7",
+      ["index.md"] = "b27b2a916ae12c3feb359826eaba87e7",
+      ["maths.md"] = "61dbe68ff7562466630034c4c66c5cd4",
+      ["memoryfile.md"] = "fe625432038fec6ee85517cf7ee38088",
+      ["pipefile.md"] = "9fc61b7a7d853ca932164afef79b5903",
+      ["random.md"] = "290230df37d38691e1ebaca640843497",
+      ["serialization.md"] = "86dcdb85533fc5c615726a54e1470d49",
+      ["storage.md"] = "8ad63f27926eb4bb10a105b25eccf0ad",
+      ["tensor.md"] = "3971fb6eacdee141de3dac5048ad4858",
+      ["tester.md"] = "379ba7ad7ff8c08d4f6999496b8e9e63",
+      ["timer.md"] = "3434aeae46d4d28f7aabcc4e9ab397f2",
+      ["utility.md"] = "9a90e290f20abc36f9f5c377dc3762cc"
+   },
+   lib = {
+      ["libtorch.so"] = "36b73d9141e2e471f64dfe74f54d03c5"
+   },
+   lua = {
+      torch = {
+         ["CmdLine.lua"] = "3170d5e14c502ee0c4c66869e868ec20",
+         ["FFI.lua"] = "984779019244c02d6aef4c6d44fabf7b",
+         ["File.lua"] = "811f300e9c68182a04b7385ff12760a9",
+         ["README.md"] = "420e0b3043f31060fe1d6adc715e668d",
+         ["Tensor.lua"] = "e6806d1023f9bc7f5148f794494de0ef",
+         ["TestSuite.lua"] = "85f00f630b84c757eb6ec0cd0cc554ef",
+         ["Tester.lua"] = "a392b78858774ab6923d9555ccaa3f81",
+         doc = {
+            ["cmdline.md"] = "5c93882d7a925a3d1e34ca39b1c65d89",
+            ["diskfile.md"] = "41abe8432333a9e730034bcc85aac644",
+            ["file.md"] = "79d9651bc3435d89472ffde1fe22640f",
+            ["gather.png"] = "4ca6caf043c2819df8ba85f1319e29a7",
+            ["index.md"] = "b27b2a916ae12c3feb359826eaba87e7",
+            ["maths.md"] = "61dbe68ff7562466630034c4c66c5cd4",
+            ["memoryfile.md"] = "fe625432038fec6ee85517cf7ee38088",
+            ["pipefile.md"] = "9fc61b7a7d853ca932164afef79b5903",
+            ["random.md"] = "290230df37d38691e1ebaca640843497",
+            ["serialization.md"] = "86dcdb85533fc5c615726a54e1470d49",
+            ["storage.md"] = "8ad63f27926eb4bb10a105b25eccf0ad",
+            ["tensor.md"] = "3971fb6eacdee141de3dac5048ad4858",
+            ["tester.md"] = "379ba7ad7ff8c08d4f6999496b8e9e63",
+            ["timer.md"] = "3434aeae46d4d28f7aabcc4e9ab397f2",
+            ["utility.md"] = "9a90e290f20abc36f9f5c377dc3762cc"
+         },
+         ["init.lua"] = "11f59242fed63b7f0d1710ea0534f876",
+         ["test.lua"] = "ad7656ab250a8ed8f2361fa66d5780b1"
+      }
+   },
+   ["torch-scm-1.rockspec"] = "d78a0d822851f28fd23e2e0a524338b0"
+}
