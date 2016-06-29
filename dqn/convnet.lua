@@ -5,12 +5,12 @@ See LICENSE file for full terms of limited license.
 ]]
 
 require "initenv"
-require './BinaryLinear.lua'
-require './BinarizedNeurons'
+require 'BinaryLinear'
+require 'BinarizedNeurons'
 require 'cudnn'
-require './cudnnBinarySpatialConvolution.lua'
-require './BatchNormalizationShiftPow2.lua'
-require './SpatialBatchNormalizationShiftPow2.lua'
+require 'cudnnBinarySpatialConvolution'
+require 'BatchNormalizationShiftPow2'
+require 'SpatialBatchNormalizationShiftPow2'
 
 
 function create_network(args)

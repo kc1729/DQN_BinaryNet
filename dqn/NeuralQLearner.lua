@@ -70,10 +70,11 @@ function nql:__init(args)
         error("The type of the network provided in NeuralQLearner" ..
               " is not a string!")
     end
-
+    require 'convnet_atari3'
     local msg, err = pcall(require, self.network)
     if not msg then
         -- try to load saved agent
+        require 'convnet_atari3'
         local err_msg, exp = pcall(torch.load, self.network)
         if not err_msg then
             error("Could not find network file ")
